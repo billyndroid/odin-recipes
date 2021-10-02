@@ -1,0 +1,11 @@
+html {
+    background-color: dodgerblue;
+    color: white;
+    font-family: 'Arial','Verdana','Helvetica', sans-serif;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
