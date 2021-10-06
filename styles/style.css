@@ -2,6 +2,10 @@ html {
     background-color: dodgerblue;
     color: white;
     font-family: 'Arial','Verdana','Helvetica', sans-serif;
+    text-align: center;
+}
+body {
+    background: linear-gradient(rgb(27,150,163), rgb(48,62,143));
 }
 .center {
     display: block;
